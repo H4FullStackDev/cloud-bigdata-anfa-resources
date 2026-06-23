@@ -2,7 +2,7 @@
 
 ## Informations de l'étudiant
 
-* **Nom et prénom :** HODIA Dimitri
+* **Nom et prénom :** HODIA Essotom
 * **Identifiant GitHub :** [H4FullStackDev]
 
 ---
